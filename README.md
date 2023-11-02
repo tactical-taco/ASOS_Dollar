@@ -6,6 +6,7 @@ $$ ASOS MONITOR $$
 $$$$$$$$$$$$$$$$$$
 
 When the application is first launched, Windows Defender will give a warning about malicious software. Click on "More Info" and then select "Run anyway". You will only have to do this once.
+# Currently this option isn't always available. I'm currently trying to resolve the issue.
 
 When the program is run, it will create two files. These files are run.p and site.p. Configuration for the program is stored in these files. Nothing bad will happen from deleting them, you'll just have to reenter all your sites.
 
